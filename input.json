@@ -1,0 +1,239 @@
+[
+    {
+        "category": "grille house",
+        "menu": [
+            {
+                "dish": "grilled seasoned chicken breast",
+                "ingredients": [
+                    "chicken breast", "canola oil", "salt", "black pepper"
+                ]
+            },
+            {
+                "dish": "char-grilled turkey burger",
+                "ingredients": [
+                    "turkey burger", "roll", "water", "high fructose corn syrup"
+                ]
+            },
+            {
+                "dish": "hamburger",
+                "ingredients": [
+                    "chicken breast patty", "roll", "water", "high fructose corn syrup"
+                ]
+            },
+            {
+                "dish": "crispy chicken sandwich",
+                "ingredients": [
+                    "chicken breast patty", "roll", "water", "high fructose corn syrup"
+                ]
+            },
+            {
+                "dish": "classic grilled cheese",
+                "ingredients": [
+                    "bread", "american cheese", "margarine"
+                ]
+            },
+            {
+                "dish": "crispy chicken bbq snacker",
+                "ingredients": [
+                    "tortilla", "water", "chicken breast patty", "cheddar cheese", "barbeque sauce", "lettuce", "onion"
+                ]
+            }      
+        ]
+    },
+    {
+        "category": "vegetabull",
+        "menu": [
+            {
+                "dish": "seasoned rice",
+                "ingredients": [
+                    "water", "white rice", "vegetable oil blend", "salt", "black pepper"
+                ]
+            }
+
+        ]
+    },
+    {
+        "category": "home slice",
+        "menu": [
+            {
+                "dish": "classic cheese pizza",
+                "ingredients": [
+                    "all purpose flour", "mozzarella cheese", "water", "pizza sauce"
+                ]
+            },
+            {
+                "dish": "margherita pizza",
+                "ingredients": [
+                    "all purpose flour", "mozzarella cheese", "water", "tomato", "vegetable oil blend"
+                ]
+            },
+            {
+                "dish": "pepperoni pizza",
+                "ingredients": [
+                    "all purpose flour", "mozzarella cheese", "water", "pizza sauce", "deli pepperoni"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "pastabilities",
+        "menu": [
+            {
+                "dish": "diced mix bell peppers",
+                "ingredients": [
+                    "green pepper", "red bell pepper"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "at home",
+        "menu": [
+            {
+                "dish": "baked macaroni & cheese",
+                "ingredients": [
+                    "water", "whole milk", "pasta", "wheat flour", "margarine", "parmesian cheese", "bread crumbs", "salt", "ground mustard", "paprika", "black pepper"
+                ]
+            },
+            {
+                "dish": "vegetable fried rice",
+                "ingredients": [
+                    "water", "white rice", "egg blend", "snow peas", "onion", "vegetable oil blend", "garlic", "gingerroot", "salt", "black pepper"
+                ]
+            },
+            {
+                "dish": "pea carrot vegetable mix",
+                "ingredients": [
+                    "peas", "carrots", "corn kernals", "onion", "celery kale"
+                ]
+            },
+            {
+                "dish": "barley vegetable soup",
+                "ingredients": [
+                    "water", "tomatoes", "green cabbage", "green beans", "onions", "celery", "carrots", "corn kernals", "barley", "garlic", "parsley", "salt", "black pepper", "dried thyme leaf"
+                ]
+            },
+            {
+                "dish": "chicken noodle soup",
+                "ingredients": [
+                    "water", "chicken thigh", "egg noodles", "chicken breast", "onion", "carrots", "celery", "garlic", "vegetable oil blend", "parsley", "salt", "black pepper", "dried bay leaf", "dried thyme leaf"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "world flavors",
+        "menu": [
+            {
+                "dish": "charro beans",
+                "ingredients": [
+                    "pinto beans", "water", "vegetable base", "salt", "cumin", "black pepper", "medium salsa"
+                ]
+            },
+            {
+                "dish": "cilantro lime rice",
+                "ingredients": [
+                    "water", "white rice", "lime juice", "vegetable base", "cilantro", "black pepper"
+                ]
+            },
+            {
+                "dish": "queso dip",
+                "ingredients": [
+                    "american cheese", "half & half creamer", "jalapeno pepper"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "pita & co.",
+        "menu": [
+            {
+                "dish": "chicken shawarma",
+                "ingredients": [
+                    "chicken breast", "lemon juice", "vegetable oil blend", "coriander", "salt", "cumin", "allspice", "cinnamon", "paprika", "ginger", "turmeric", "black pepper", "cayenne pepper"
+                ]
+            },
+            {
+                "dish": "hummus",
+                "ingredients": [
+                    "garbanzo beans", "lemon juice", "tahini", "vegetable oil blend", "garlic", "salt"
+                ]
+            },
+            {
+                "dish": "sumac onions",
+                "ingredients": [
+                    "onion", "lemon juice", "ground sumac", "salt"
+                ]
+            },
+            {
+                "dish": "mediterranean cranberry couscous",
+                "ingredients": [
+                    "water", "couscous", "carrots", "sunflower seeds", "lemon juice", "dried cranberries", "extra virgin olive oil", "mint", "green onion", "salt", "coriander", "black pepper", "cayenne pepper"
+                ]
+            },
+            {
+                "dish": "yellow rice",
+                "ingredients": [
+                    "water", "white rice", "vegetable base", "canola oil", "tumeric", "salt"
+                ]
+            },
+            {
+                "dish": "baba ghanoush",
+                "ingredients": [
+                    "eggplant", "lemon juice", "tahini", "canola oil", "parsley", "garlic", "salt", "black pepper"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "central garden",
+        "menu": [
+            {
+                "dish": "greek chickpea salad",
+                "ingredients": [
+                    "garbanzo beans", "tomato", "feta cheese", "black olive", "green onion", "water", "red wine", "vinegar", "parsley", "sun dried tomato", "onion", "dijon mustard", "garlic", "basil", "thyme", "parsley", "salt", "black pepper", "paprika"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "delish",
+        "menu": [
+            {
+                "dish": "signature chips",
+                "ingredients": [
+                    "potato chips", "granulated sugar", "black pepper blend", "garlic pepper seasoning"
+                ]
+            },
+            {
+                "dish": "egg salad sandwich",
+                "ingredients": [
+                    "multi grain wrap", "hardboiled egg", "lettuce", "mayonnaise", "celery", "salt", "black pepper", "ground mustard"
+                ]
+            },
+            {
+                "dish": "hummus",
+                "ingredients": [
+                    "garbanzo beans", "lemon juice", "tahini", "vegetable oil blend", "garlic", "salt"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "daily sweet",
+        "menu": [
+            {
+                "dish": "vegan brownie",
+                "ingredients": [
+                    "granulated sugar", "wheat flour", "vegetable oil blend", "baking cocoa", "water", "vanilla extract", "baking powder", "salt"
+                ]
+            },
+            {
+                "dish": "vanilla cupcake",
+                "ingredients": [
+                    "yellow cake", "water", "vanilla icing"
+                ]
+            }
+        ]
+    }
+]
